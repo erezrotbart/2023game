@@ -1,3 +1,0 @@
-ant compile
-
-ant run -Dargs="1 2 3"
